@@ -1,0 +1,29 @@
+[
+  {
+    "pregunta": "Algo que hacen los padres que desespera a los hijos",
+    "respuestas": [
+      { "texto": "Quitar el celular", "puntos": 40 },
+      { "texto": "Apagar el WiFi", "puntos": 30 },
+      { "texto": "Mandar a dormir temprano", "puntos": 20 },
+      { "texto": "Compararte con otros", "puntos": 10 }
+    ]
+  },
+  {
+    "pregunta": "Una forma de honrar a los padres",
+    "respuestas": [
+      { "texto": "Obedecer", "puntos": 45 },
+      { "texto": "Ayudar en casa", "puntos": 25 },
+      { "texto": "Hablar con respeto", "puntos": 20 },
+      { "texto": "Orar por ellos", "puntos": 10 }
+    ]
+  },
+  {
+    "pregunta": "Algo que una mamá cristiana siempre dice",
+    "respuestas": [
+      { "texto": "Ore primero", "puntos": 35 },
+      { "texto": "Dios lo está viendo", "puntos": 30 },
+      { "texto": "Lea la Biblia", "puntos": 20 },
+      { "texto": "¿Ya hizo el devocional?", "puntos": 15 }
+    ]
+  }
+]
