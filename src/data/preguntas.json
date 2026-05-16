@@ -1,29 +1,146 @@
 [
   {
-    "pregunta": "Algo que hacen los padres que desespera a los hijos",
+    "pregunta": "¿Cual es la frase de mamá/papá que da más miedo?",
     "respuestas": [
-      { "texto": "Quitar el celular", "puntos": 40 },
-      { "texto": "Apagar el WiFi", "puntos": 30 },
-      { "texto": "Mandar a dormir temprano", "puntos": 20 },
-      { "texto": "Compararte con otros", "puntos": 10 }
+      { "texto": "En la casa hablamos ", "puntos": 38 },
+      { "texto": "Pase que no le voy a pegar", "puntos": 27 },
+      { "texto": "¿Y si yo lo encuentro qué?", "puntos": 20 },
+      { "texto": "Venga para acá", "puntos": 15 }
     ]
   },
   {
-    "pregunta": "Una forma de honrar a los padres",
+    "pregunta": "¿Qué significa: “Mientras viva en esta casa…”? ",
     "respuestas": [
-      { "texto": "Obedecer", "puntos": 45 },
-      { "texto": "Ayudar en casa", "puntos": 25 },
-      { "texto": "Hablar con respeto", "puntos": 20 },
-      { "texto": "Orar por ellos", "puntos": 10 }
+      { "texto": "Aquí se hace lo que yo diga", "puntos": 40 },
+      { "texto": "Se acabó la discusión", "puntos": 25 },
+      { "texto": "Mi casa, mis reglas", "puntos": 20 },
+      { "texto": "Le toca obedecer", "puntos": 15 }
     ]
   },
   {
-    "pregunta": "Algo que una mamá cristiana siempre dice",
+    "pregunta": "¿Qué significa cuando tu papá dice: “Yo a su edad…”? ",
     "respuestas": [
-      { "texto": "Ore primero", "puntos": 35 },
-      { "texto": "Dios lo está viendo", "puntos": 30 },
-      { "texto": "Lea la Biblia", "puntos": 20 },
-      { "texto": "¿Ya hizo el devocional?", "puntos": 15 }
+      { "texto": "Yo hacía más cosas", "puntos": 36 },
+      { "texto": "Antes era más dificil", "puntos": 28 },
+      { "texto": "Su generación era mejor", "puntos": 22 },
+      { "texto": "Que no tenía distracciones", "puntos": 14 }
+    ]
+  },
+  {
+    "pregunta": "¿Qué responden los jovenes cuando los mandan a algo?",
+    "respuestas": [
+      { "texto": "Ahorita / Ya voy", "puntos": 34 },
+      { "texto": "Ay, otra vez…", "puntos": 26 },
+      { "texto": "¿Y por qué siempre yo?", "puntos": 25 },
+      { "texto": "Nada y hacen mala cara", "puntos": 15 }
+    ]
+  },
+  {
+    "pregunta": "Qué hacen muchos jóvenes apenas los regañan?",
+    "respuestas": [
+      { "texto": "Hacer mala cara", "puntos": 33 },
+      { "texto": "Se van del lugar", "puntos": 27 },
+      { "texto": "Manotear / Enojarse", "puntos": 23 },
+      { "texto": "Agachar la cabeza", "puntos": 17 }
+    ]
+  },
+  {
+    "pregunta": "Qué hacen los papás que te desespera?",
+    "respuestas": [
+      { "texto": "Quitar el celular / consola ..", "puntos": 35 },
+      { "texto": "Repetir lo mismo mil veces", "puntos": 30 },
+      { "texto": "No dejar explicar / callarme", "puntos": 20 },
+      { "texto": "Compararme con otros", "puntos": 15 }
+    ]
+  },
+  {
+    "pregunta": "Traduce: “¿Usted cree que esto es un hotel?",
+    "respuestas": [
+      { "texto": "Usted se la pasa en la calle", "puntos": 37 },
+      { "texto": "No respeta las reglas de la casa", "puntos": 29 },
+      { "texto": "Ayude a hacer oficio", "puntos": 19 },
+      { "texto": "No valora el esfuerzo de los padres", "puntos": 15 }
+    ]
+  },
+  {
+    "pregunta": "Qué respondes a ¿Y si sus amigos se tiran por un puente, usted también?",
+    "respuestas": [
+      { "texto": "¡Agh, usted siempre con lo mismo!", "puntos": 32 },
+      { "texto": "Depende de qué tan alto sea el puente", "puntos": 30 },
+      { "texto": "No, obvio no", "puntos": 22 },
+      { "texto": "Usted si exagera", "puntos": 16 }
+    ]
+  },
+  {
+    "pregunta": "¿Qué frase usan los papás cuando comparan generaciones? ",
+    "respuestas": [
+      { "texto": "En mis tiempos...", "puntos": 34 },
+      { "texto": "Yo a tu edad...", "puntos": 31 },
+      { "texto": "Lo de antes era mejor", "puntos": 20 },
+      { "texto": "Ahora son muy delicados", "puntos": 15 }
+    ]
+  },
+  {
+    "pregunta": "Traduce ¿Usted cree que a mí me regalan la plata o qué?",
+    "respuestas": [
+      { "texto": "No le voy a dar plata", "puntos": 39 },
+      { "texto": "Deje de pedir cosas", "puntos": 28 },
+      { "texto": "El dinero cuesta trabajo", "puntos": 18 },
+      { "texto": "No hay plata pa' eso", "puntos": 15 }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál frase usan más los papás cuando uno no estudia?",
+    "respuestas": [
+      { "texto": "Su única obligación es estudiar", "puntos": 36 },
+      { "texto": "Pero uno le diga el celular...", "puntos": 29 },
+      { "texto": "Uno no le va a durar toda la vida", "puntos": 20 },
+      { "texto": "Aproveche ahora que puede", "puntos": 15 }
+    ]
+  },
+  {
+    "pregunta": "¿Qué frase dicen más los papás sobre el celular?",
+    "respuestas": [
+      { "texto": "Ese aparato lo va a volver bruto", "puntos": 37 },
+      { "texto": "Parece que no pudiera vivir sin ese celular", "puntos": 26 },
+      { "texto": "Con ese celular se la pasa todo el día", "puntos": 22 },
+      { "texto": "Que el celular le dé pa' comer", "puntos": 15 }
+    ]
+  },
+  {
+    "pregunta": "Traduce: Mírese, parece un gamín",
+    "respuestas": [
+      { "texto": "Cambiese esa ropa", "puntos": 35 },
+      { "texto": "Se ve desordenado o mal arreglado", "puntos": 30 },
+      { "texto": "No le gusta mi ropa", "puntos": 20 },
+      { "texto": "la ropa no es acorde a la ocasion", "puntos": 15 }
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la frase favorita para cerrar cualquier debate? ",
+    "respuestas": [
+      { "texto": "¡Porque yo lo digo y punto!", "puntos": 40 },
+      { "texto": "Aquí mando yo", "puntos": 27 },
+      { "texto": "Así no le guste", "puntos": 18 },
+      { "texto": "Ay, a mi no me conteste", "puntos": 15 }
+    ]
+  },
+  {
+    "pregunta": "Cuando no encuentras algo en la casa, ¿qué frase dice tu mamá?",
+    "respuestas": [
+      { "texto": "A que voy yo y lo encuentro", "puntos": 33 },
+      { "texto": "Abra bien esos ojos", "puntos": 32 },
+      { "texto": "Busque bien", "puntos": 20 },
+      { "texto": " Lo tiene en sus narices", "puntos": 15 }
+    ]
+  },
+  {
+    "pregunta": "Traduce: ¿Y es que sus amigos no tienen casa?",
+    "respuestas": [
+      { "texto": "Ya es hora de que se vayan", "puntos": 38 },
+      { "texto": "Ya se aburrió de ellos", "puntos": 28 },
+      { "texto": "No los quiere ahí", "puntos": 19 },
+      { "texto": "No tienen nada que hacer", "puntos": 15 }
     ]
   }
 ]
