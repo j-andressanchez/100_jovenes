@@ -60,6 +60,11 @@ export default function useGame(triggerErrorFx) {
     setReveladas([]);
     setStealMode(false);
     setStealTeam(null);
+
+    setPreguntaIndex((prev) => {
+      const next = prev + 1;
+      return next < preguntas.length ? next : prev;
+    });
   };
 
   const asignarTotalPuntos = () => {
